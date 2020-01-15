@@ -1,0 +1,335 @@
+Lecture Slides/cs251-04-handout (Wed 9-4-19).pdf
+Lecture Slides/cs251-06-handout (Mon 9-9-19).pdf
+Lecture Slides/cs251-08-handout (Fri 9-13-19).pdf
+Picture notes/Maps important operator.PNG
+Picture notes/ADTs/List ADT operations.PNG
+Picture notes/ADTs/Queue ADT operations.PNG
+Picture notes/ADTs/Queue implemented using linked list.PNG
+Picture notes/ADTs/Stack ADT operations.PNG
+Picture notes/ADTs/stack implementation using linked lists.PNG
+Picture notes/AVL trees/Algorithms supporting AVL trees pt 2.png
+Picture notes/AVL trees/Algorithms supporting AVL trees.png
+Picture notes/Algorithms and Recursion/Fibonachi.png
+Picture notes/Algorithms and Recursion/Recursion - base case.png
+Picture notes/Binary Search Tree/AVL trees.png
+Picture notes/Binary Search Tree/getHeight algorithm.PNG
+Picture notes/Binary Search Tree/height.PNG
+Picture notes/Binary Search Tree/inorder traversal.PNG
+Picture notes/Binary Search Tree/insert if nodes are equal.PNG
+Picture notes/Binary Search Tree/Insertion code.PNG
+Picture notes/Binary Search Tree/Remove algorithm.PNG
+Picture notes/Binary Search Tree/Remove code.PNG
+Picture notes/Data Structures/ADTs (Abstract Data Types).PNG
+Picture notes/Data Structures/ADTs in standard Libraries.PNG
+Picture notes/Data Structures/Algorithm efficiency.PNG
+Picture notes/Data Structures/best and worst case concepts.PNG
+Picture notes/Data Structures/common ADTs.PNG
+Picture notes/Data Structures/Data structures.PNG
+Picture notes/Data Structures/linear search best and worst cases.PNG
+Picture notes/Data Structures/NP-complete.PNG
+Picture notes/Data Structures/Runtime complexity.PNG
+Picture notes/Data Structures/Space complexity.PNG
+Picture notes/Fri sep 13 lecture/An implementation of binary search.PNG
+Picture notes/Fri sep 13 lecture/Binary search (log n) requirements.PNG
+Picture notes/Fri sep 13 lecture/Binary search tree.PNG
+Picture notes/Fri sep 13 lecture/folding a linked list.PNG
+Picture notes/Fri sep 13 lecture/how to delete root of tree pt 1.PNG
+Picture notes/Fri sep 13 lecture/how to delete root of tree pt 2.PNG
+Picture notes/Fri sep 13 lecture/if lopsided tree.PNG
+Picture notes/Fri sep 13 lecture/inserting in binary tree.PNG
+Picture notes/Fri sep 13 lecture/why not vector or array for amazon..PNG
+Picture notes/Linked Lists/Appending a node to a singly linked list.PNG
+Picture notes/Linked Lists/List Traverse Reverse double vs single.PNG
+Picture notes/Linked Lists/Prepending a node to a singly linked list.PNG
+Picture notes/Linked Lists/Traversing a linked list.PNG
+Picture notes/Mon Dec 12/A closer look at min-heap.png
+Picture notes/Mon Dec 12/How to navigate the tree.png
+Picture notes/Mon Dec 12/Navigation a min-heap.png
+Picture notes/Mon Dec 12/perkalating up.png
+Picture notes/Mon Dec 12/pop min-heap.png
+Picture notes/Mon Dec 12/The most interesting feature of min-heap.png
+Picture notes/Mon nov 25 lecture/project 6 tip 1.PNG
+Picture notes/Mon sep 9 Lecture/Array vs Linked List vs LL with memoization.PNG
+Picture notes/Mon sep 9 Lecture/at(i) implementation.PNG
+Picture notes/Mon sep 9 Lecture/Baby Steps.PNG
+Picture notes/Mon sep 9 Lecture/back and front button of web browser.PNG
+Picture notes/Mon sep 9 Lecture/back button of web browser.PNG
+Picture notes/Mon sep 9 Lecture/Common pattern for Insertion and deletion (or any modifying of a data structure).PNG
+Picture notes/Mon sep 9 Lecture/Data Structure comparison chart.PNG
+Picture notes/Mon sep 9 Lecture/LL of Array Chunks and Skip Lists.PNG
+Picture notes/Mon sep 9 Lecture/queue.PNG
+Picture notes/Mon sep 9 Lecture/stack.PNG
+Picture notes/Mon sep 9 Lecture/Task manager how does OS manage all programs on CPU.PNG
+Picture notes/Mon sep 9 Lecture/unlimited undo.PNG
+Picture notes/Vectors/user command to continue loop.PNG
+Picture notes/Vectors/Vector Initalization.PNG
+Picture notes/Vectors/vector pop back and back.PNG
+Picture notes/Wed Dec 4/error handling problem walk through.png
+Picture notes/Wed Dec 4/error handling.png
+Picture notes/Wed Dec 4/pop min-heap.png
+Picture notes/Wed sep 18 lecture/compute sum of BST.PNG
+Picture notes/Wed sep 18 lecture/height copy remove.PNG
+Picture notes/wed sep 4 lecture/1.PNG
+Picture notes/wed sep 4 lecture/How to make linked list faster !!!!.PNG
+Picture notes/wed sep 4 lecture/How to make linked list faster 2 !!!!.PNG
+Picture notes/wed sep 4 lecture/linked list in vector - edit 1.PNG
+Picture notes/wed sep 4 lecture/Linked list in vector time to sum.PNG
+Picture notes/wed sep 4 lecture/linked list in vector.PNG
+Picture notes/wed sep 4 lecture/order n squared vs n log n.PNG
+Picture notes/wed sep 4 lecture/Proof that time to sum is n squared.PNG
+Picture notes/wed sep 4 lecture/time complexity continued.PNG
+Picture notes/wed sep 4 lecture/time complexity order of n vs n squared.PNG
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/ILplates.obj
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/main.obj
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.log
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/vc142.idb
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/vc142.pdb
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/CL.command.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/CL.read.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/CL.write.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/link.command.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/link.read.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/link.write.1.tlog
+Projects/Project 5 Hashing/Project 5/Project 5/Debug/Project 5.tlog/Project 5.lastbuildstate
+Projects/Project 4 myDB/Project 04 - myDB/Debug/main.obj
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project 04 - myDB.log
+Projects/Project 4 myDB/Project 04 - myDB/Debug/util.obj
+Projects/Project 4 myDB/Project 04 - myDB/Debug/vc142.idb
+Projects/Project 4 myDB/Project 04 - myDB/Debug/vc142.pdb
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/CL.command.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/CL.read.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/CL.write.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/link.command.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/link.read.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/link.write.1.tlog
+Projects/Project 4 myDB/Project 04 - myDB/Debug/Project .975C2845.tlog/Project 04 - myDB.lastbuildstate
+Projects/Project 4 myDB/Project 04 - myDB/_save/avl.h
+Projects/Project 4 myDB/Project 04 - myDB/_save/avl.o
+Projects/Project 4 myDB/Project 04 - myDB/_save/main.cpp
+Projects/Project 4 myDB/Project 04 - myDB/_save/makefile
+Projects/Project 4 myDB/Project 04 - myDB/_save/stations.data
+Projects/Project 4 myDB/Project 04 - myDB/_save/stations.meta
+Projects/Project 4 myDB/Project 04 - myDB/_save/students.data
+Projects/Project 4 myDB/Project 04 - myDB/_save/students.meta
+Projects/Project 4 myDB/Project 04 - myDB/_save/test.cpp
+Projects/Project 4 myDB/Project 04 - myDB/_save/util.cpp
+Projects/Project 4 myDB/Project 04 - myDB/_save/util.h
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/.suo
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/Browse.VC.db
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/ipch/AutoPCH/26f6ebe7015024e0/PROJECT 04 - MYDB.ipch
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/ipch/AutoPCH/29c9e775fb44c7aa/UTIL.ipch
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/ipch/AutoPCH/80b9f1cbf15b5150/PROJECT 04 - MYDB.ipch
+Projects/Project 4 myDB/.vs/Project 04 - myDB/v16/ipch/AutoPCH/f94958fb5fcbbded/MAIN.ipch
+Projects/Project 4 myDB/Debug/Project 04 - myDB.exe
+Projects/Project 4 myDB/Debug/Project 04 - myDB.ilk
+Projects/Project 4 myDB/Debug/Project 04 - myDB.pdb
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/main.obj
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.log
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/vc142.idb
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/vc142.pdb
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/CL.command.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/CL.read.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/CL.write.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/link.command.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/link.read.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/link.write.1.tlog
+Projects/Project 3 AVL/Project 3- AVL/Project 3- AVL/Debug/Project 3- AVL.tlog/Project 3- AVL.lastbuildstate
+Projects/Project 3 AVL/Project 3- AVL/Debug/Project 3- AVL.exe
+Projects/Project 3 AVL/Project 3- AVL/Debug/Project 3- AVL.ilk
+Projects/Project 3 AVL/Project 3- AVL/Debug/Project 3- AVL.pdb
+Projects/Project 3 AVL/Project 3- AVL/.vs/Project 3- AVL/v16/.suo
+Projects/Project 3 AVL/Project 3- AVL/.vs/Project 3- AVL/v16/Browse.VC.db
+Projects/Project 3 AVL/Project 3- AVL/.vs/Project 3- AVL/v16/ipch/AutoPCH/3a146dbe85e96d5b/MAIN.ipch
+Projects/Project 3 AVL/Project 3- AVL/.vs/Project 3- AVL/v16/ipch/AutoPCH/77f01001eacbc1c0/PROJECT 3- AVL.ipch
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/main.obj
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project 2 BST Movie Search.log
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/vc142.idb
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/vc142.pdb
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/CL.command.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/CL.read.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/CL.write.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/link.command.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/link.read.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/link.write.1.tlog
+Projects/Project 2 BST Movie Search/Project 2 BST Movie Search/Debug/Project .7DBBED53.tlog/Project 2 BST Movie Search.lastbuildstate
+Projects/Project 2 BST Movie Search/.vs/Project 2 BST Movie Search/v16/.suo
+Projects/Project 2 BST Movie Search/.vs/Project 2 BST Movie Search/v16/Browse.VC.db
+Projects/Project 2 BST Movie Search/.vs/Project 2 BST Movie Search/v16/ipch/AutoPCH/33d105d0263083d8/PROJECT 2 BST MOVIE SEARCH.ipch
+Projects/Project 2 BST Movie Search/.vs/Project 2 BST Movie Search/v16/ipch/AutoPCH/680d82b9eba4db4a/BST.ipch
+Projects/Project 2 BST Movie Search/.vs/Project 2 BST Movie Search/v16/ipch/AutoPCH/eb70b616e2ab1347/MAIN.ipch
+Projects/Project 2 BST Movie Search/Debug/Project 2 BST Movie Search.exe
+Projects/Project 2 BST Movie Search/Debug/Project 2 BST Movie Search.ilk
+Projects/Project 2 BST Movie Search/Debug/Project 2 BST Movie Search.pdb
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/ProjectSettings.json
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/slnx.sqlite
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/VSWorkspaceState.json
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/Part 03/v16/.suo
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/Part 03/v16/Browse.VC.db
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/Part 03/v16/ipch/AutoPCH/b9192414a7fea13f/FUNCTIONS.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/.vs/Part 03/v16/ipch/AutoPCH/baf0e02d927ad6b5/MAIN.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/Debug/CS 251 Project 1.exe
+Projects/Project 1 myVector Template/CS 251 Project 1/Debug/CS 251 Project 1.ilk
+Projects/Project 1 myVector Template/CS 251 Project 1/Debug/CS 251 Project 1.pdb
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.log
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.obj
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/functions.obj
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/main.obj
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/test.obj
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/test.obj.enc
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/vc142.idb
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/vc142.pdb
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/CL.command.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/CL.read.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/CL.write.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/CS 251 Project 1.lastbuildstate
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.command.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.read.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.write.1.tlog
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1.sln
+Projects/Project 1 myVector Template/CS 251 Project 1/project01.pdf
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/.suo
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/Browse.VC.db
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/9f7881a2a44b42d7.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/48808b220740b3b9/MAIN.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/4c2e855319714154/TEST.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/76f2e255f3110b4a/MAIN.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/99365361091f8c74/MYVECTOR.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/9de0244059ff6258/FUNCTIONS.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/ec2f1d57827a96b3/FUNCTIONS.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/AutoPCH/f92c5197879de060/CS 251 PROJECT 1.ipch
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj.filters
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj.user
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/functions.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/main.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/movie1.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/myvector.h
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/test.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test01.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test02.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test03.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test04.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test05.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test06.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test07.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test08.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test09.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test10.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test11.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test12.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test13.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test14.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test15.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test16.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test17.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test18.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test19.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test20.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test21.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/functions.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/main.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie1.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie2.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie3.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie4.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/myvector.h
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/functions.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/main.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie1.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie2.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie3.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie4.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/myvector.h
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/functions.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/main.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie1.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie2.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie3.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie4.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/myvector.h
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/functions.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/main.cpp
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie1.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie2.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie3.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie4.txt
+Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/myvector.h
+Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/.suo
+Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/Browse.VC.db
+Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/ipch/AutoPCH/5c530fc437655b18/LAB 11.ipch
+Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/ipch/AutoPCH/ee4268aea3786824/MAIN.ipch
+Testing/testing/testing/testing.cpp
+Testing/testing/testing/testing.vcxproj
+Testing/testing/testing/testing.vcxproj.filters
+Testing/testing/testing/testing.vcxproj.user
+Testing/testing/testing/Debug/testing.log
+Testing/testing/testing/Debug/testing.obj
+Testing/testing/testing/Debug/vc142.idb
+Testing/testing/testing/Debug/vc142.pdb
+Testing/testing/testing/Debug/testing.tlog/CL.command.1.tlog
+Testing/testing/testing/Debug/testing.tlog/CL.read.1.tlog
+Testing/testing/testing/Debug/testing.tlog/CL.write.1.tlog
+Testing/testing/testing/Debug/testing.tlog/link.command.1.tlog
+Testing/testing/testing/Debug/testing.tlog/link.read.1.tlog
+Testing/testing/testing/Debug/testing.tlog/link.write.1.tlog
+Testing/testing/testing/Debug/testing.tlog/testing.lastbuildstate
+Testing/testing/testing.sln
+Testing/testing/.vs/testing/v16/.suo
+Testing/testing/.vs/testing/v16/Browse.VC.db
+Testing/testing/.vs/testing/v16/ipch/AutoPCH/41dde9b0dcf1a808/TESTING.ipch
+Testing/testing/Debug/testing.exe
+Testing/testing/Debug/testing.ilk
+Testing/testing/Debug/testing.pdb
+Projects/Mac-Windows - Proj 6 Graphs.zip
+Projects/Windows-Mac - Proj 5 Hashing .zip
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/main.obj
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.log
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/util.obj
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/vc142.idb
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/vc142.pdb
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/CL.command.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/CL.read.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/CL.write.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/link.command.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/link.read.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/link.write.1.tlog
+Projects/Project 6 Graphs/Project 6/Project 6/Debug/Project 6.tlog/Project 6.lastbuildstate
+Projects/Project 6 Graphs/Project 6/.vs/Project 6/v16/.suo
+Projects/Project 6 Graphs/Project 6/.vs/Project 6/v16/Browse.VC.db
+Projects/Project 6 Graphs/Project 6/.vs/Project 6/v16/ipch/AutoPCH/2497883b868195e0/MAIN.ipch
+Projects/Project 6 Graphs/Project 6/.vs/Project 6/v16/ipch/AutoPCH/56efe3a5ce8dd030/PROJECT 6.ipch
+Projects/Project 6 Graphs/Project 6/.vs/Project 6/v16/ipch/AutoPCH/c7ca2cbb3dc25a47/UTIL.ipch
+Projects/Project 6 Graphs/Project 6/Debug/Project 6.exe
+Projects/Project 6 Graphs/Project 6/Debug/Project 6.ilk
+Projects/Project 6 Graphs/Project 6/Debug/Project 6.pdb
+Projects/Project 5 Hashing/Project 5/.vs/Project 5/v16/.suo
+Projects/Project 5 Hashing/Project 5/.vs/Project 5/v16/Browse.VC.db
+Projects/Project 5 Hashing/Project 5/.vs/Project 5/v16/ipch/AutoPCH/7e3e51d1c40f9770/PROJECT 5.ipch
+Projects/Project 5 Hashing/Project 5/.vs/Project 5/v16/ipch/AutoPCH/85627719a07cc4f3/MAIN.ipch
+Projects/Project 5 Hashing/Project 5/.vs/Project 5/v16/ipch/AutoPCH/f3dfc4cd5ee694c2/ILPLATES.ipch
+Projects/Project 5 Hashing/Project 5/Debug/Project 5.exe
+Projects/Project 5 Hashing/Project 5/Debug/Project 5.ilk
+Projects/Project 5 Hashing/Project 5/Debug/Project 5.pdb
+Labs/Lab Week 12-01_ Build Graph.zip
+Labs/Lab Week 12-02_ BFS.zip
+Labs/Lab Week 12-03_ Strongly-connected.zip
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/hashCrimeCode.obj
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.log
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/main.obj
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/vc142.idb
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/vc142.pdb
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/CL.command.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/CL.read.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/CL.write.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/HW11.lastbuildstate
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/link.command.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/link.read.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/HW11/Debug/HW11.tlog/link.write.1.tlog
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/.vs/HW11/v16/.suo
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/.vs/HW11/v16/Browse.VC.db
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/.vs/HW11/v16/ipch/AutoPCH/1c1fca5e47409a5c/MAIN.ipch
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/.vs/HW11/v16/ipch/AutoPCH/ae4fdc4e96525f80/HW11.ipch
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/.vs/HW11/v16/ipch/AutoPCH/d3c23687db3c4820/HASHCRIMECODE.ipch
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/Debug/HW11.exe
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/Debug/HW11.ilk
+Homework/HW #11-02_ hashing Chicago crime report codes, with collisions/HW11/Debug/HW11.pdb
