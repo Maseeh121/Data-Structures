@@ -185,8 +185,6 @@ Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.command.1.tlog
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.read.1.tlog
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/Debug/CS 251 Project 1.tlog/link.write.1.tlog
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1.sln
-Projects/Project 1 myVector Template/CS 251 Project 1/project01.pdf
 Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/.suo
 Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/Browse.VC.db
 Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/ipch/9f7881a2a44b42d7.ipch
@@ -200,60 +198,6 @@ Projects/Project 1 myVector Template/CS 251 Project 1/.vs/CS 251 Project 1/v16/i
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj.filters
 Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/CS 251 Project 1.vcxproj.user
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/functions.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/main.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/movie1.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/myvector.h
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/test.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test01.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test02.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test03.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test04.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test05.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test06.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test07.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test08.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test09.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test10.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test11.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test12.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test13.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test14.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test15.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test16.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test17.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test18.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test19.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test20.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/CS 251 Project 1/project01-test-cases/test21.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/functions.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/main.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie1.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie2.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie3.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/movie4.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 01/myvector.h
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/functions.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/main.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie1.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie2.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie3.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/movie4.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 02/myvector.h
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/functions.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/main.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie1.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie2.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie3.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/movie4.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 03/myvector.h
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/functions.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/main.cpp
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie1.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie2.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie3.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/movie4.txt
-Projects/Project 1 myVector Template/CS 251 Project 1/Part 04/myvector.h
 Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/.suo
 Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/Browse.VC.db
 Labs/Lab Week 11_ Graph class using adjacency matrix/Lab 11/.vs/Lab 11/v16/ipch/AutoPCH/5c530fc437655b18/LAB 11.ipch
